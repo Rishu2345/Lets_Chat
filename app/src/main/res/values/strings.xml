@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Let\'s Chat</string>
+
+    <string name="onboarding_title_intro">Welcome to ChatApp</string>
+    <string name="onboarding_desc_intro">Stay connected with your friends and family anytime, anywhere. ChatApp makes conversations simple, fast, and secure.</string>
+
+    <string name="onboarding_title_connection">Stay Connected</string>
+    <string name="onboarding_desc_connection">You need an active internet connection to send and receive messages. Make sure you\'re online to enjoy uninterrupted chats.</string>
+
+    <string name="onboarding_title_auth">Login or Sign Up</string>
+    <string name="onboarding_desc_auth">Create a new account or sign in to continue chatting. Your chats are synced securely across devices for a seamless experience.</string>
+
+    <string name="web_client_id">1039433496480-7djb0hi4692cgmp2h44hlm81mg7hjuft.apps.googleusercontent.com</string>
+    <string name="Database_Url">https://lets-chat-b110b-default-rtdb.asia-southeast1.firebasedatabase.app/</string>
+
+</resources>
